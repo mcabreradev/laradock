@@ -2,14 +2,14 @@ repo_name: mcabreradev/laradock
 report_id: 9bcfc09dfde6b89963ea87417140bf1b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:44:05+00:00'
+timestamp: '2024-02-29T18:44:46+00:00'
 requested_by: Mahmoudz
 provider: github
 branch: master
 detected_tools_count: 19
 tools:
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
